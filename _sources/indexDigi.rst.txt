@@ -1,0 +1,43 @@
+DIGITAL SOLUTIONS
+------------------
+
+NOT OFFICIALLY WORK RELATED PROJECTS & PROGRAMS
+
+DEMO & TRIALS
+______________
+
+
+* Data persistence test (very basic)
+
+(Private WebGL app)
+
+.. figure:: /images/unityDX1.png
+   :alt: Depth perception
+   :scale: 40 %
+
+.. figure:: /images/unityDX2.png
+   :alt: Depth perception
+   :scale: 40 %
+
+-------------------------------------------------------
+
+* Photo viewer project
+
+.. figure:: /images/DAlbum1.png
+   :alt: Depth perception
+   :scale: 20 %
+
+.. figure:: /images/DAlbum2.png
+   :alt: Depth perception
+   :scale: 59 %
+   
+----------------------------------------------
+
+* Computer vision for pulse detection
+
+.. raw:: html
+
+   <video width="640" height="360" controls>
+      <source src="_static/cv.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
