@@ -31,21 +31,18 @@ You can also see some details about my professional background and resumé alias
 
 .. toctree::
    :maxdepth: 1
-   :caption: CV
    
    indexCV
    
    
 .. toctree::
    :maxdepth: 1
-   :caption: Other profiles
    
    indexOtherProfiles
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Digital solutions
    
    indexDigi
    

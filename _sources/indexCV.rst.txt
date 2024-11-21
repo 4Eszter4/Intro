@@ -166,7 +166,7 @@ EARLY CAREER & VOLUNTEERING
 
 September 2017 – December 2018
 
-Responsibilities: Preparative work in the molecular biology field, use of **spectrophotometry**, capillary electrophoresis**, and perform data analysis. **DNA preparation synthesis** and **FRET** pair dye identification.
+Responsibilities: Preparative work in the molecular biology field, use of **spectrophotometry**, **capillary electrophoresis**, and perform data analysis. **DNA preparation synthesis** and **FRET** pair dye identification.
 `intro <_static/intro_Bsc_thesis.pdf>`_ (Hungarian)
 
 
